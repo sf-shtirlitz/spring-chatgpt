@@ -1,6 +1,7 @@
 **/src/main/resources/stored_conversation.json
 **/src/main/resources/application.properties
 .gitignore
+/resources/*
 
 HELP.md
 target/
